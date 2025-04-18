@@ -16,6 +16,7 @@ include("domotic")
 include("thermostat")
 include("robots")
 include("contractnet")
+include("ex")
 
 develocity {
     buildScan {

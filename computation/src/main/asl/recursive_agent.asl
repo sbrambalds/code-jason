@@ -2,7 +2,8 @@
 
 /* Initial goals */
 
-!start(0).
+!start(5).
+!start(10).
 
 /* Plans */
 
